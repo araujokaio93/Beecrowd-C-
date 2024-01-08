@@ -2,14 +2,6 @@
 
 Este repositório contém soluções para desafios do BeeCrowd implementadas em C++. Os arquivos do projeto incluem:
 
-- `bin/Debug`: Pasta de saída do compilador para arquivos de depuração.
-- `obj/Debug`: Pasta contendo arquivos de objeto para compilação de depuração.
-- `1100.cpp`: Solução para o desafio com o número 1100.
-- `2959.cpp`: Solução para o desafio com o número 2959.
-- `beecrowd1764.cbp`: Projeto Code::Blocks.
-- `beecrowd1764.layout`: Layout do projeto Code::Blocks.
-- `main.cpp`: Arquivo principal contendo links para os desafios resolvidos.
-
 ## Desafios Resolvidos
 
 1. [Desafio 1100](1100.cpp) - Descrição do desafio 1100.
