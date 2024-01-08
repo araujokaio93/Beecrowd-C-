@@ -1,6 +1,6 @@
 # BeeCrowd - Desafios Resolvidos em C++
 
-Este repositório contém soluções para desafios do BeeCrowd implementadas em C++. Os arquivos do projeto incluem:
+Este repositório contém soluções para desafios do BeeCrowd implementadas em C++, utilizando POO.
 
 ## Desafios Resolvidos
 
